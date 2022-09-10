@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -37,19 +37,19 @@ features                                  :
 
   - title                                 : Search 
     description                           : Look up words in dictionary which contains 130k+ definitions
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : book
     
   - title                                 : Learn smarter 
     description                           : Use our implementation of Leitner system to significantly boost your learning and retention <b>by up to 50%</b>
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 :  
 
   - title                                 : Perform better at exams
     description                           : Research shows students, who learn with spaced repetition algorithm, to outperform other students <b>by up to 16%</b> at exams
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : graduation-cap
 
   - title                                 : Keep knowledge sorted
     description                           : Create collections of words and learn them associatively
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : database
 
   - title                                 : Enjoy learning
     description                           : Learn words with your friends by accessing the list of public collections
