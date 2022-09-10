@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Search 
     description                           : Look up words in dictionary which contains 130k+ definitions
-    fontawesome_icon_name                 : book
+    fontawesome_icon_name                 : search
     
   - title                                 : Learn smarter 
     description                           : Use our implementation of Leitner system to significantly boost your learning and retention <b>by up to 50%</b>
-    fontawesome_icon_name                 :  
+    fontawesome_icon_name                 : lightbulb-on 
 
   - title                                 : Perform better at exams
     description                           : Research shows students, who learn with spaced repetition algorithm, to outperform other students <b>by up to 16%</b> at exams
@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Enjoy learning
     description                           : Learn words with your friends by accessing the list of public collections
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : users
 
 
 # Theme Settings
